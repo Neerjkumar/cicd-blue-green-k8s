@@ -8,21 +8,22 @@ A production-ready CI/CD pipeline implementation featuring automated builds, blu
 
 ## 📋 Table of Contents
 
-- [Overview](#overview)
-- [Features](#features)
-- [Architecture](#architecture)
-- [Prerequisites](#prerequisites)
-- [Quick Start](#quick-start)
-- [Repository Structure](#repository-structure)
-- [Detailed Setup](#detailed-setup)
-- [Blue-Green Deployment](#blue-green-deployment)
-- [Disaster Recovery](#disaster-recovery)
-- [Monitoring & Logging](#monitoring--logging)
-- [Testing](#testing)
-- [Security Best Practices](#security-best-practices)
-- [Troubleshooting](#troubleshooting)
-- [Contributing](#contributing)
-- [License](#license)
+- [Overview](#-overview)
+- [Features](#-features)
+- [Architecture](#-architecture)
+- [Prerequisites](#-prerequisites)
+- [Quick Start](#-quick-start)
+- [Repository Structure](#-repository-structure)
+- [Detailed Setup](#-detailed-setup)
+- [Blue-Green Deployment](#-blue-green-deployment)
+- [Disaster Recovery](#-disaster-recovery)
+- [Monitoring & Logging](#-monitoring--logging)
+- [Testing](#-testing)
+- [Security Best Practices](#-security-best-practices)
+- [Troubleshooting](#-troubleshooting)
+- [Contributing](#-contributing)
+- [License](#-license)
+
 
 ## 🎯 Overview
 
