@@ -1,0 +1,11 @@
+# Ignore system files
+.DS_Store
+*.log
+*.tmp
+*.bak
+
+# Ignore Jenkins workspace files
+jenkins/workspace/
+
+# Ignore local config files
+*.env
