@@ -390,16 +390,16 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 🙏 Acknowledgments
 
-- Jenkins community for excellent documentation
-- Kubernetes community for container orchestration
-- DevOps best practices from industry leaders
+- [Jenkins community](https://www.jenkins.io/) for excellent documentation
+- [Kubernetes community](https://kubernetes.io/) for container orchestration
+- DevOps best practices from industry leaders such as [Google SRE](https://sre.google/sre-book/), [AWS Well-Architected](https://aws.amazon.com/architecture/well-architected/), and [DevOps Handbook](https://itrevolution.com/devops-handbook/)
 
 ## 📞 Support
 
 For issues, questions, or suggestions:
 - Open an issue in this repository
-- Contact via email: neerajnirala1999@gmail.com
-- Connect on LinkedIn
+- Contact via email: [neerajnirala1999@gmail.com](mailto:neerajnirala1999@gmail.com)
+- Connect on [LinkedIn](https://www.linkedin.com/in/neeraj529kumar/)
 
 ---
 
